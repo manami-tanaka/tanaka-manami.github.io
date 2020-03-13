@@ -1,0 +1,35 @@
+h1 {
+    color:white;
+    background-color: yellow;
+    font-size: 40px;
+    /* font-weight: bold; */
+    
+}
+
+.photo {
+    width: 200px;
+    height: 200px;
+}
+
+.kuma {
+    width: 200px;
+    border-radius: 35%;
+}
+
+.contact-form {
+    padding-top: 100px;
+}
+
+input, textarea {
+	width: 1000px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding: 20px;
+    font-size: 18px;
+    border: 1px solid red;
+}
+
+.contact-submit {
+	background-color: #dee7ec;
+    color: #889eab;
+}
